@@ -5,7 +5,7 @@ A polymath software engineer
 <a href="https://github.com/ZulwiyozaPutra/Zulwiyoza-Putra/raw/master/Zulwiyoza%20Putra.pdf"><b>Download Resume</b></a>
 
 ## Experience
-#### Software Engineer | Sept 2017 — Now
+<b>Software Engineer | Sept 2017 — Now</b><br />
 KIBAR  — Jakarta, Indonesia
 - Research, design, develop, test, deploy and maintain high-performance iOS and web applications for all Kibar's universe products and business needs.
 - Built a centralized identity by building single sign on technology with Open ID Connect Provider as identity layer on top of OAuth 2.0 protocol to work with every services in Kibar’s universe products.
@@ -13,7 +13,7 @@ KIBAR  — Jakarta, Indonesia
 - Built an internal event management web application with Django and its client with React JS.
 - Manage and lead the engineering team’s knowledge and project.
 
-#### Freelance iOS Developer | Sept 2016 — Sept 2017
+<b>Freelance iOS Developer | Sept 2016 — Sept 2017</b><br />
 Self employed — San Francisco, CA, United States
 - Research, design, and develop iOS application based on client needs.
 - Designed the UI/UX of the iOS application
