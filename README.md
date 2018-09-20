@@ -1,3 +1,4 @@
+<img src="https://github.com/ZulwiyozaPutra/Zulwiyoza-Putra/raw/master/avatar.jpg" />
 <b>Zulwiyoza Putra</b><br />
 A polymath software engineer
 
