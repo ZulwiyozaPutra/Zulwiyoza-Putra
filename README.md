@@ -26,23 +26,23 @@ Self employed — San Francisco, CA, United States
 <b>Languages</b>: Swift, Python, Javascript, Go.<br />
 <b>Technologies</b>:  iOS, Django, Flask, React JS, Node JS, Git, RESTful web services, Core Data, Firebase, Facebook SDK, MapKit, AVFoundation, CocoaPods, XCTest, Web Socket.<br />
 ## Awards & Achievement
-#### Make School Scholarship
-Make School, May 2016 — San Francisco, CA, United States
-#### TechCrunch Disrupt San Francisco Hackathon Finalist
-TechCrunch, September 2016 — San Francisco, CA, United States
-#### Revel Hackathon 2nd Place Winner 
-Revel, September 2016 — San Francisco, CA, United States
-#### F8 Developer Scholarship
-Facebook, April 2017 & April 2018 — San Jose, CA, United States
+<b>Make School Scholarship</b> <br/>
+Make School, May 2016 — San Francisco, CA, United States<br/><br/>
+<b>TechCrunch Disrupt San Francisco Hackathon Finalist</b> <br/>
+TechCrunch, September 2016 — San Francisco, CA, United States<br/><br/>
+<b>Revel Hackathon 2nd Place Winner</b> <br/> 
+Revel, September 2016 — San Francisco, CA, United States<br/><br/>
+<b>F8 Developer Scholarship</b> <br/>
+Facebook, April 2017 & April 2018 — San Jose, CA, United States<br/><br/>
 
 ## Volunteer
-#### Volunteer at Web Development & Media Team
+<b>Volunteer at Web Development & Media Team</b> <br/>
 TEDx San Francisco 2016 — San Francisco, CA, United States
 ## Education
-#### <b>Business Management</b> | Aug 2012 — Feb 2015
-Institut Teknologi Bandung — Bandung, Indonesia
-#### <b>iOS Developer Nanodegree</b> | May 2017 — Jul 2017
-Udacity — San Francisco, CA, United States
-#### <b>Make School iOS Developer Academy</b> | June 2016 — Aug 2017
-Make School — San Francisco, CA, United States
+<b>Business Management</b> | Aug 2012 — Feb 2015<br />
+Institut Teknologi Bandung — Bandung, Indonesia <br /><br />
+<b>iOS Developer Nanodegree</b> | May 2017 — Jul 2017 <br />
+Udacity — San Francisco, CA, United States <br /><br />
+<b>Make School iOS Developer Academy</b> | June 2016 — Aug 2017 <br />
+Make School — San Francisco, CA, United States <br /><br />
 
