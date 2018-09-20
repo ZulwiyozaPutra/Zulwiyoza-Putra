@@ -11,6 +11,7 @@ KIBAR  — Jakarta, Indonesia
 - Built a powerful transactional Email APIs that enable every product in Kibar’s universe business utilize to send, receive, and track emails.
 - Built an internal event management web application with Django and its client with React JS.
 - Manage and lead the engineering team’s knowledge and project.
+
 #### Freelance iOS Developer | Sept 2016 — Sept 2017
 Self employed — San Francisco, CA, United States
 - Research, design, and develop iOS application based on client needs.
@@ -19,6 +20,7 @@ Self employed — San Francisco, CA, United States
 - Wrote high quality and high readability Swift code with decent unit test coverage.
 - Handle the complexity of multi timezone and date synchronization in iOS applications.
 - Applied the best practice of object-oriented software architecture and design patterns.
+
 ## Skills
 <b>Languages</b>: Swift, Python, Javascript, Go.<br />
 <b>Technologies</b>:  iOS, Django, Flask, React JS, Node JS, Git, RESTful web services, Core Data, Firebase, Facebook SDK, MapKit, AVFoundation, CocoaPods, XCTest, Web Socket.<br />
@@ -31,6 +33,7 @@ TechCrunch, September 2016 — San Francisco, CA, United States
 Revel, September 2016 — San Francisco, CA, United States
 #### F8 Developer Scholarship
 Facebook, April 2017 & April 2018 — San Jose, CA, United States
+
 ## Volunteer
 #### Volunteer at Web Development & Media Team
 TEDx San Francisco 2016 — San Francisco, CA, United States
