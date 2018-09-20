@@ -1,7 +1,7 @@
 <b>Zulwiyoza Putra</b><br />
 A polymath software engineer
 
-<a href="mailto:putra@wiyoza.com?Subject=Hi%20Putra" target="_top"><b>Contact Me<b></a>
+<a href="mailto:putra@wiyoza.com?Subject=Hi%20Putra" target="_top"><b>Contact Me</b></a>
 
 ## Experience
 #### Software Engineer | Sept 2017 — Now
